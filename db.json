@@ -55,8 +55,8 @@
     "message" : "test",
     "data": {
       "account": {
-      "id": "444444",
-      "type": "no_teacher",
+      "id": "000000",
+      "type": "teacher",
       "account_name": "panya4",
       "first_name":"panya",
       "last_name": "naknoppakun",
