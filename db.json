@@ -64,7 +64,7 @@
       },
     "friends_id": ["444444","555555","666666","777777","888888","999999","stop12"]
     }
-  }
+  },
   "login2": {
     "isSuccessful" : true,
     "message" : "test",
