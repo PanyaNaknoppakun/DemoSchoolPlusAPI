@@ -55,9 +55,24 @@
     "message" : "test",
     "data": {
       "account": {
-      "id": "444444",
+      "id": "555555",
       "type": "no_teacher",
-      "account_name": "panya4",
+      "account_name": "panya5",
+      "first_name":"panya",
+      "last_name": "naknoppakun",
+      "avatar": "https://www.photov.com"
+      },
+    "friends_id": ["444444","555555","666666","777777","888888","999999","stop12"]
+    }
+  }
+  "login2": {
+    "isSuccessful" : true,
+    "message" : "test",
+    "data": {
+      "account": {
+      "id": "stop12",
+      "type": "teacher",
+      "account_name": "panyaT",
       "first_name":"panya",
       "last_name": "naknoppakun",
       "avatar": "https://www.photov.com"
