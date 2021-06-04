@@ -163,47 +163,5 @@
                 }
             ]
         }
-    },
-    "timeline": [
-        {
-            "id": "000123421",
-            "title": "title_a",
-            "detail": "detail_a",
-            "images": [
-                "https://image_url.com/a",
-                "https://image_url.com/b",
-                "https://image_url.com/c"
-            ]
-        },
-        {
-            "id": "000123422",
-            "title": "title_b",
-            "detail": "detail_b",
-            "images": [
-                "https://image_url.com/a",
-                "https://image_url.com/b",
-                "https://image_url.com/c"
-            ]
-        },
-        {
-            "id": "000123423",
-            "title": "title_c",
-            "detail": "detail_c",
-            "images": [
-                "https://image_url.com/a",
-                "https://image_url.com/b",
-                "https://image_url.com/c"
-            ]
-        },
-        {
-            "id": "000123424",
-            "title": "title_d",
-            "detail": "detail_d",
-            "images": [
-                "https://image_url.com/a",
-                "https://image_url.com/b",
-                "https://image_url.com/c"
-            ]
-        }
-    ]
+    }
 }
